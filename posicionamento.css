@@ -1,0 +1,32 @@
+.box {
+  width: 50px;
+  height: 50px;
+  margin-bottom: 8px;
+}
+.box1 {
+  background-color: black;
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  z-index: 6;
+}
+.box2 {
+  background-color: indigo;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 4;
+}
+.box3 {
+  background-color: purple;
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  z-index: 2;
+}
+.box4 {
+  background-color: violet;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
